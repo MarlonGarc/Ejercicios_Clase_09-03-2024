@@ -1,0 +1,28 @@
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase No. 09-03-2024\Ejercicios Clase\bin\Debug\net8.0\Ejercicios Clase.exe
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase No. 09-03-2024\Ejercicios Clase\bin\Debug\net8.0\Ejercicios Clase.deps.json
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase No. 09-03-2024\Ejercicios Clase\bin\Debug\net8.0\Ejercicios Clase.runtimeconfig.json
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase No. 09-03-2024\Ejercicios Clase\bin\Debug\net8.0\Ejercicios Clase.dll
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase No. 09-03-2024\Ejercicios Clase\bin\Debug\net8.0\Ejercicios Clase.pdb
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase No. 09-03-2024\Ejercicios Clase\obj\Debug\net8.0\Ejercicios Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase No. 09-03-2024\Ejercicios Clase\obj\Debug\net8.0\Ejercicios Clase.AssemblyInfoInputs.cache
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase No. 09-03-2024\Ejercicios Clase\obj\Debug\net8.0\Ejercicios Clase.AssemblyInfo.cs
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase No. 09-03-2024\Ejercicios Clase\obj\Debug\net8.0\Ejercicios Clase.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase No. 09-03-2024\Ejercicios Clase\obj\Debug\net8.0\Ejercicios Clase.dll
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase No. 09-03-2024\Ejercicios Clase\obj\Debug\net8.0\refint\Ejercicios Clase.dll
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase No. 09-03-2024\Ejercicios Clase\obj\Debug\net8.0\Ejercicios Clase.pdb
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase No. 09-03-2024\Ejercicios Clase\obj\Debug\net8.0\Ejercicios Clase.genruntimeconfig.cache
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase No. 09-03-2024\Ejercicios Clase\obj\Debug\net8.0\ref\Ejercicios Clase.dll
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase 5\Ejercicios Clase\obj\Debug\net8.0\Ejercicios Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase 5\Ejercicios Clase\obj\Debug\net8.0\Ejercicios Clase.AssemblyInfoInputs.cache
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase 5\Ejercicios Clase\obj\Debug\net8.0\Ejercicios Clase.AssemblyInfo.cs
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase 5\Ejercicios Clase\obj\Debug\net8.0\Ejercicios Clase.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase 5\Ejercicios Clase\obj\Debug\net8.0\Ejercicios Clase.dll
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase 5\Ejercicios Clase\obj\Debug\net8.0\refint\Ejercicios Clase.dll
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase 5\Ejercicios Clase\obj\Debug\net8.0\Ejercicios Clase.pdb
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase 5\Ejercicios Clase\bin\Debug\net8.0\Ejercicios Clase.exe
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase 5\Ejercicios Clase\bin\Debug\net8.0\Ejercicios Clase.deps.json
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase 5\Ejercicios Clase\bin\Debug\net8.0\Ejercicios Clase.runtimeconfig.json
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase 5\Ejercicios Clase\bin\Debug\net8.0\Ejercicios Clase.dll
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase 5\Ejercicios Clase\bin\Debug\net8.0\Ejercicios Clase.pdb
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase 5\Ejercicios Clase\obj\Debug\net8.0\Ejercicios Clase.genruntimeconfig.cache
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Clase 5\Ejercicios Clase\obj\Debug\net8.0\ref\Ejercicios Clase.dll
